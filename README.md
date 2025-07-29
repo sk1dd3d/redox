@@ -373,11 +373,8 @@ We officially support Minecraft 1.8.9 through 1.21.4, with best compatibility on
 
 ### 🔗 Links
 
-- **Website**: [redoxclient.com](https://redoxclient.com)
-- **Documentation**: [docs.redoxclient.com](https://docs.redoxclient.com)
+- **Website**: [redoxclient.vercel.app](https://redoxclient.vercel.app)
 - **Discord**: [discord.gg/redoxclient](https://discord.gg/redoxclient)
-- **YouTube**: [Redox Client Official](https://youtube.com/@redoxclient)
-- **Twitter**: [@RedoxClient](https://twitter.com/RedoxClient)
 
 ---
 
