@@ -338,9 +338,6 @@ Any other relevant information.
 
 ## 🔍 Debug Information
 ```
-[Paste relevant log files here]
-```
-```
 
 ### 🚨 Priority Levels
 
@@ -400,7 +397,6 @@ Visual examples if applicable.
 - **Discord**: Primary community hub - [Join here](https://discord.gg/redoxclient)
 - **GitHub Issues**: Bug reports and feature requests
 - **GitHub Discussions**: General questions and ideas
-- **Reddit**: r/RedoxClient for community posts
 
 ### 🏆 Recognition
 
