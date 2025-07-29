@@ -1,2 +1,2 @@
 # > Redox #1 Minecraft Client <
-<br>
+![https://img.shields.io/badge/cost-blue_free-green]
