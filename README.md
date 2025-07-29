@@ -69,11 +69,12 @@
 ### 🎯 Player Modules
 | Module | Description | Bypass Level | Customizable |
 |--------|-------------|--------------|--------------|
-| **Scaffold** | Intelligent block placement with legit patterns | ⭐⭐⭐⭐⭐ | ✅ |
+| **LScaffold** | We crouch, you place. Use with Auto-Place for Scaffold | ⭐⭐⭐⭐⭐ | ✅ |
 | **InvManager** | Automatic inventory organization | ⭐⭐⭐⭐⭐ | ✅ |
 | **ChestStealer** | Rapid chest looting | ⭐⭐⭐⭐ | ✅ |
 | **AutoTool** | Automatic tool selection | ⭐⭐⭐⭐⭐ | ✅ |
 | **FastPlace** | Accelerated block placement | ⭐⭐⭐⭐ | ✅ |
+| **AutoPlace** | Automatic Block Placement | ⭐⭐⭐⭐⭐ | ✅ |
 
 ### 👁️ Visual Modules
 | Module | Description | Performance Impact | Customizable |
@@ -100,7 +101,7 @@
 | **1.12.2** | 🔴 Limited | Long Ago | Deprecated |
 | **1.8.9** | 🟢 Full | Recently | Recommended |
 
-> **📝 Note:** Full support includes all modules and bypass features. Partial support may have limited bypasses or missing modules.
+> **📝 Note:** Full support includes all modules and bypass features. Partial support may have limited bypasses or missing modules. Limited support has nearly to no bypasses and will hardly have any module.
 
 ---
 
@@ -109,11 +110,12 @@
 ### 🏆 Premium Servers
 | Server | Status | Last Updated | Bypass Methods |
 |--------|--------|--------------|----------------|
-| **Hypixel** | 🟢 Working | 2024-01-15 | Advanced packet spoofing, legit simulation |
-| **Minemen** | 🟢 Working | 2024-01-14 | Movement prediction, smart delays |
-| **Lunar Network** | 🟡 Partial | 2024-01-12 | Limited modules, high stealth mode |
-| **BlocksMC** | 🟢 Working | 2024-01-13 | Full bypass suite |
-| **PvPLand** | 🟢 Working | 2024-01-11 | Combat focus optimizations |
+| **Hypixel** | 🟢 Working | Recently | Advanced packet spoofing, legit simulation |
+| **Minemen** | 🟢 Working | Recently | Movement prediction, smart delays |
+| **Lunar Network** | 🟡 Partial | Recently | Limited modules, high stealth mode |
+| **BlocksMC** | 🟢 Working | Recently | Full bypass suite |
+| **PvPLand** | 🟢 Working | Recently | Combat focus optimizations |
+| **AppleMC** | 🟢 Working | Recently | Only combat |
 
 ### 🔧 Anti-Cheat Systems
 | Anti-Cheat | Bypass Level | Confidence | Notes |
@@ -123,6 +125,7 @@
 | **AAC** | ⭐⭐⭐⭐⭐ | 90% | Well-tested bypasses |
 | **Matrix** | ⭐⭐⭐ | 70% | Ongoing development |
 | **Verus** | ⭐⭐⭐⭐ | 85% | Regular updates |
+| **Polar** | ⭐⭐⭐⭐⭐ | 96% | Advanced combat bypass |
 
 ---
 
@@ -207,8 +210,8 @@
 - **Step** - Block step assistance
 - **Strafe** - Air movement control
 - **Parkour** - Automatic edge jumping
-- **SafeWalk** - Prevent falling off edges
 - **AutoWalk** - Automated walking
+- **WalkBackwards** - Forces backwards walking
 
 </details>
 
