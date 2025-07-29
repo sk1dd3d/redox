@@ -415,4 +415,4 @@ Made with ❤️ by the Redox Team
 
 </div>
 
-> Note that Redox is not released yet and this README is for when it releases.
+> Noote that Redox is not released yet and this README is for when it releases.
