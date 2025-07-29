@@ -6,7 +6,6 @@
 [![Version](https://img.shields.io/badge/version-v1.0.0--indev-ff6b6b?style=for-the-badge)](https://github.com/sk1dd3d/redox/releases)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=for-the-badge)](LICENSE)
 [![Discord](https://img.shields.io/discord/123456789?color=7289da&label=Discord&style=for-the-badge)](https://discord.gg/redoxclient)
-[![Downloads](https://img.shields.io/github/downloads/sk1dd3d/redox/total?style=for-the-badge&color=success)](https://github.com/sk1dd3d/redox/releases)
 [![Stars](https://img.shields.io/github/stars/sk1dd3d/redox?style=for-the-badge&color=yellow)](https://github.com/sk1dd3d/redox/stargazers)
 
 **The Ultimate Minecraft Java Client - Undetected, Powerful, Free**
@@ -335,8 +334,8 @@ Our bypass system is continuously updated and tested against major anti-cheats. 
 
 We release updates regularly:
 - **Critical bypasses**: Within 24-48 hours
-- **Feature updates**: Weekly
-- **Major releases**: Monthly
+- **Feature updates**: Unknown
+- **Major releases**: Under a month
 - **Security patches**: Immediately
 
 </details>
@@ -369,7 +368,6 @@ We officially support Minecraft 1.8.9 through 1.21.4, with best compatibility on
 
 ### 🆘 Getting Help
 
-- **📖 Documentation**: [docs.redoxclient.com](https://docs.redoxclient.com)
 - **💬 Discord**: [Join our community](https://discord.gg/redoxclient)
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/sk1dd3d/redox/issues)
 - **📧 Email**: redoxsupport@proton.me
