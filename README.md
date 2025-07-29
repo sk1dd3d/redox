@@ -64,7 +64,8 @@
 | **Speed** | Advanced movement speed enhancement | ⭐⭐⭐⭐ | ✅ |
 | **Spider** | Wall climbing capabilities | ⭐⭐⭐ | ✅ |
 | **Jesus** | Water walking with multiple modes | ⭐⭐⭐⭐ | ✅ |
-| **NoFall** | Fall damage prevention | ⭐⭐⭐⭐⭐ | ✅ |
+| **NoFall** | Fall damage prevention | ⭐ | ✅ |
+| **BHOP** | Jump like bunnies | ⭐⭐⭐⭐ | ❌ |
 
 ### 🎯 Player Modules
 | Module | Description | Bypass Level | Customizable |
