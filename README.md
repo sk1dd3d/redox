@@ -411,8 +411,6 @@ Made with ❤️ by the Redox Team
 
 ---
 
-![Footer](https://via.placeholder.com/800x100/2c2c2c/ffffff?text=Redox+Client+%7C+The+Ultimate+Minecraft+Experience)
-
 </div>
 
 > Noote that Redox is not released yet and this README is for when it releases.
